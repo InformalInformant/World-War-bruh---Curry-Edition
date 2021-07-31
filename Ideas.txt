@@ -1,0 +1,16 @@
+Balance
+-Change how "Wave Events/Focuses" work
+
+
+
+Generic Focus
+-
+
+
+Map
+-
+
+
+Decisions and Events
+-Add initial event with rules specific to country
+-Add specific decision that shows all rules for quick reference
